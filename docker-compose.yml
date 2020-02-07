@@ -1,0 +1,18 @@
+version: '3'
+
+services:
+  markapp:
+    build: Bluefin-Service-ScheduleTour/
+    ports:
+      - '3002:3002'
+
+  kevapp:
+    build: Bluefin-Service-SimilarHomes/
+    ports:
+      - '4005:4004'
+
+  robapp:
+    build: Bluefin-Mortgage-Service/
+    ports:
+      - '4003:4003'
+
