@@ -1,0 +1,9 @@
+[submodule "Bluefin-Mortgage-Service"]
+	path = Bluefin-Mortgage-Service
+	url = https://github.com/Big-Tunas/Bluefin-Mortgage-Service.git
+[submodule "Bluefin-Service-SimilarHomes"]
+	path = Bluefin-Service-SimilarHomes
+	url = https://github.com/Big-Tunas/Bluefin-Service-SimilarHomes.git
+[submodule "Bluefin-Service-ScheduleTour"]
+	path = Bluefin-Service-ScheduleTour
+	url = https://github.com/Big-Tunas/Bluefin-Service-ScheduleTour.git
